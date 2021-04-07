@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174542196221",
+    "project_id": "application-notification-70024",
+    "storage_bucket": "application-notification-70024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174542196221:android:03c74d74398c3708e05d94",
+        "android_client_info": {
+          "package_name": "com.dantasbarreto.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174542196221-cqcb4ua39i4aj93sf4q5orliigfkqofs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgyOoO0ECkRLa1d0We1o9EvWkOtwh76p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174542196221-cqcb4ua39i4aj93sf4q5orliigfkqofs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
